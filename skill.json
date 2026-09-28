@@ -1,0 +1,19 @@
+{
+  "name": "genpark-horn-clause-forward-backward-chaining-skill",
+  "version": "1.0.0",
+  "description": "Definite Horn clause deductive engine supporting forward chaining fixpoint and goal-directed backward chaining",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "horn-clauses",
+    "forward-chaining",
+    "backward-chaining",
+    "deductive-database",
+    "logic-programming",
+    "expert-systems",
+    "python-standard-library",
+    "agent-skills",
+    "automated-inference",
+    "rule-based-reasoning"
+  ]
+}
