@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-horn-clause-forward-backward-chaining-skill"
+version = "1.0.0"
+description = "Definite Horn clause deductive engine supporting forward chaining fixpoint and goal-directed backward chaining"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
